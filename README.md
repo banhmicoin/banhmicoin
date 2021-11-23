@@ -1,7 +1,7 @@
 <h1 align="center">
-BanhmiCoin Core [BANHMI]  
+  <img src="https://banhmicoin.github.io/logo.png" alt="BanhmiCoin" width="500"/>
 <br/><br/>
-<img src="https://banhmicoin.github.io/logo.png" alt="BanhmiCoin" width="300"/>
+  BanhmiCoin Core [BANHMI]  
 </h1>
 
 Banhmicoin is a community-driven cryptocurrency. The BanhmiCoin Core software not realted to any things.
